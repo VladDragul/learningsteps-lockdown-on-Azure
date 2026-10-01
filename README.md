@@ -230,7 +230,7 @@ graph TB
 
 ## Deployment
 
-    git clone https://github.com/VladvonTranssylvanien/learningsteps-lockdown
+    git clone https://github.com/VladDragul/learningsteps-lockdown-on-Azure
     cd learningsteps-lockdown
     python3 deploy.py
 
